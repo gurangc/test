@@ -1,6 +1,0 @@
-#include <iostream>
-using namespace std;
-
-add(int left, int right) {
-  return left + right;
-}
